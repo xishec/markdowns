@@ -13,7 +13,7 @@ Each heatmap displays weekly data across multiple years (2002–present), with:
 
 ### Chart Types
 
-- **DET Count**: Total number of birds detected (all capture types combined)
+- **DET Count**: Total number of birds detected
 - **Capture Rate**: Birds captured per net-hour (accounts for trapping effort)
 - **Observation Rate**: Birds observed per observer-hour (accounts for observation effort)
 
